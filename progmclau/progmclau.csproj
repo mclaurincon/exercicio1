@@ -15,4 +15,7 @@
     <Folder Include="Arquivos_redimensionado\" />
     <Folder Include="Arquivos_Finalizado\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Program23.cs" />
+  </ItemGroup>
 </Project>

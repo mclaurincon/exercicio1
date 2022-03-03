@@ -1,0 +1,13 @@
+/Users/carlosrincon/Projects/progmclau/progmclau/bin/Release/netcoreapp3.1/progmclau.deps.json
+/Users/carlosrincon/Projects/progmclau/progmclau/bin/Release/netcoreapp3.1/progmclau.runtimeconfig.json
+/Users/carlosrincon/Projects/progmclau/progmclau/bin/Release/netcoreapp3.1/progmclau.runtimeconfig.dev.json
+/Users/carlosrincon/Projects/progmclau/progmclau/bin/Release/netcoreapp3.1/progmclau.dll
+/Users/carlosrincon/Projects/progmclau/progmclau/bin/Release/netcoreapp3.1/progmclau.pdb
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.csproj.AssemblyReference.cache
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.AssemblyInfoInputs.cache
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.AssemblyInfo.cs
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.csproj.CoreCompileInputs.cache
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.dll
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.pdb
+/Users/carlosrincon/Projects/progmclau/progmclau/obj/Release/netcoreapp3.1/progmclau.genruntimeconfig.cache

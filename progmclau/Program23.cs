@@ -4,7 +4,7 @@ using System.Threading;
 
 namespace progmclau
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -16,7 +16,7 @@ namespace progmclau
             Console.Read();
         }
 
-        private static void Redimensionar()
+        static void Redimensionar()
         {
             #region "Diretorios"
             string diretorio_entrada = "Arquivos_entrada";
@@ -48,11 +48,9 @@ namespace progmclau
                 // Ler o tamanho que irá redimensionar
 
 
-                foreach (string arquivo in arquivosEntrada)
+                foreach (var arquivo in arquivosEntrada)
                 {
 
-                    FileStream file = new FileStream(arquivo, FileMode.Open, FileAccess.ReadWrite, FileShare.ReadWrite);
-                    FileInfo fileInfo = new FileInfo(arquivo);
                     Console.WriteLine(arquivo);
                 }
 
